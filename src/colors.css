@@ -1,16 +1,12 @@
-.
-
-.c1 {
-  /*
-  RGB-arvot X440: 213, 217, 214 (#D5D9D6)
-
-  RGB-arvot V389: 225, 217, 152 (#E1D998)
-
-  RGB-arvot F503: 246, 243, 234 (#F6F3EA)
-
-  RGB-arvot H303: 249, 228, 164 (#F6F3EA)
+/*
+Herkkä haaveilija - Kaunis Koti 1
+RGB-arvot X440: 213, 217, 214 (#D5D9D6)
+RGB-arvot V389: 225, 217, 152 (#E1D998)
+RGB-arvot F503: 246, 243, 234 (#F6F3EA)
+RGB-arvot H303: 249, 228, 164 (#F6F3EA)
 */
-color: rgb(255, 255, 255);
+.c1 {
+  color: rgb(1, 25, 255);
 }
 .c1 #X440
 {
@@ -38,6 +34,7 @@ color: rgb(255, 255, 255);
 
   RGB-arvot F309: 246, 239, 228 (#F6EFE4)
 */
+
 color: rgb(255, 255, 255);
 }
 .c2 #X445
